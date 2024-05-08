@@ -1,6 +1,6 @@
 # CS3_AndreChuabio
 This repository contains the necessary information for the case study 3 deliverable
-#Important Information
+# Important Information
 The two attached PDFs include both the Prompt and Deliverable for the case study as well as a Rubric to follow in order to meet all requirements successfully.
 # Data
 The necessary data is located in the "DATA" folder and includes both a cleaned dataset to be used for your model as well as the original and complete Original Star Wars trilogy data.
